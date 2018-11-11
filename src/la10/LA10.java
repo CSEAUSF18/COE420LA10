@@ -16,6 +16,10 @@ public void FeatureA()
 {
  System.out.println("Feature A added)");
 }
+public void FeatureB()
+{
+ System.out.println("Feature B added)");
+}
     /**
      * @param args the command line arguments
      */
